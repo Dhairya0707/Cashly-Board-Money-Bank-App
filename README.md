@@ -82,11 +82,6 @@ Your privacy is important to us. Our app ensures that your data is secure and on
 
 ---
 
-*Flutter* Built with ❤️ and Flutter #flutter
-
----
-
-
 ## Contact Us
 
 We’d love to hear from you! Reach out to us with any questions or feedback.
@@ -105,3 +100,6 @@ Check out the GitHub repository for this project:
 ---
 
 Thank you for choosing Cashly Board Money Bank App! Happy gaming!
+*Flutter* Built with ❤️ and Flutter #flutter
+
+---
