@@ -12,7 +12,7 @@ Say goodbye to messy cash handling and hello to seamless game management.
 
 ## Visit Website
 
-[Cashly Board Money Bank App Updates]([https://www.notion.so/Cashly-Board-Money-Bank-App-Screenshots-87812f8fb3a94ec2817cd39f6bb974fc?pvs=21](https://famous-arithmetic-ef4.notion.site/Cashly-Board-Money-Bank-App-5e5e46efdf6b4493a5da595eee42b018?pvs=74))
+[Cashly Board Money Bank App Updates](https://www.notion.so/Cashly-Board-Money-Bank-App-Screenshots-87812f8fb3a94ec2817cd39f6bb974fc?pvs=21](https://famous-arithmetic-ef4.notion.site/Cashly-Board-Money-Bank-App-5e5e46efdf6b4493a5da595eee42b018?pvs=74)
 
 ---
 
