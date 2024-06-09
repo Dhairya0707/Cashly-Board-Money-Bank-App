@@ -82,6 +82,11 @@ Your privacy is important to us. Our app ensures that your data is secure and on
 
 ---
 
+*Flutter* Built with ❤️ and Flutter #flutter
+
+---
+
+
 ## Contact Us
 
 We’d love to hear from you! Reach out to us with any questions or feedback.
